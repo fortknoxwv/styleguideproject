@@ -1,0 +1,80 @@
+section {
+  border: 1px solid black;
+  width: 33%;
+  display: inline-block;
+}
+
+.color {
+  font-weight: bold;
+}
+
+.mood,
+li {
+  font-size: 18px;
+}
+
+#red {
+  background-color: red;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#purple {
+  background-color: purple;
+}
+
+.sancreek {
+  font-family: "Sancreek";
+}
+
+.lilita {
+  font-family: "Lilita One";
+}
+
+.arvo {
+  font-family: Arvo;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+#h1-ex {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Sancreek; 
+}
+
+#h2-ex {
+  font-size: 30px;
+  font-family: "Lilita One";
+}
+
+#h3-ex {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arvo;
+}
+
+#p-ex {
+  font-size: 18px;
+  font-family: Arvo;
+}
